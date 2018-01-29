@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\LuckyNumberProjTwo\LuckyNumberProjTwo\bin\Debug\LuckyNumberProjTwo.exe.config
+C:\Users\WeCanCodeIT\source\repos\LuckyNumberProjTwo\LuckyNumberProjTwo\bin\Debug\LuckyNumberProjTwo.exe
+C:\Users\WeCanCodeIT\source\repos\LuckyNumberProjTwo\LuckyNumberProjTwo\bin\Debug\LuckyNumberProjTwo.pdb
+C:\Users\WeCanCodeIT\source\repos\LuckyNumberProjTwo\LuckyNumberProjTwo\obj\Debug\LuckyNumberProjTwo.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\LuckyNumberProjTwo\LuckyNumberProjTwo\obj\Debug\LuckyNumberProjTwo.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\LuckyNumberProjTwo\LuckyNumberProjTwo\obj\Debug\LuckyNumberProjTwo.exe
+C:\Users\WeCanCodeIT\source\repos\LuckyNumberProjTwo\LuckyNumberProjTwo\obj\Debug\LuckyNumberProjTwo.pdb
