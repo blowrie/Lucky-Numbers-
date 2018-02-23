@@ -57,10 +57,6 @@ namespace LuckyNumberProjTwo
                         Console.WriteLine("Number out of range please try again.");
                         i--;
                     }
-                    else
-                    {
-
-                    }
                 }
                 Console.WriteLine("Lets reveal those winning numbers! Press Enter when you are feeling lucky\n");
                 Console.ReadLine();
@@ -85,11 +81,7 @@ namespace LuckyNumberProjTwo
                         {
                             Console.WriteLine("Congratulations! " + luckyNumbers[i] + " and " + winningNumbers[j] + " MATCH!");
                             match++; //If numbers match eachother match is added 1
-                        }
-                        else
-                        {
-
-                        }
+                        } 
                     }
                 }
                 if (match == 0)
